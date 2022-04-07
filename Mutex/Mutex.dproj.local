@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/04/07 09:13:09.838,=D:\McProjetos\DelphiRio\Unit1.pas</Transaction>
+    <Transaction>2022/04/07 09:13:47.039,C:\Users\Rafael\Documents\Delphi_Estudos\2 - Meus_projetos\Mutex\fMutex.dfm=D:\McProjetos\DelphiRio\Unit1.dfm</Transaction>
+    <Transaction>2022/04/07 09:13:47.039,C:\Users\Rafael\Documents\Delphi_Estudos\2 - Meus_projetos\Mutex\fMutex.pas=D:\McProjetos\DelphiRio\Unit1.pas</Transaction>
+    <Transaction>2022/04/07 09:20:30.221,=D:\McProjetos\DelphiRio\Unit1.pas</Transaction>
+    <Transaction>2022/04/07 09:21:35.086,C:\Users\Rafael\Documents\Delphi_Estudos\2 - Meus_projetos\Mutex\fTela2.pas=D:\McProjetos\DelphiRio\Unit1.pas</Transaction>
+    <Transaction>2022/04/07 09:21:35.086,C:\Users\Rafael\Documents\Delphi_Estudos\2 - Meus_projetos\Mutex\fTela2.dfm=D:\McProjetos\DelphiRio\Unit1.dfm</Transaction>
+    <Transaction>2022/04/07 09:30:38.085,C:\Users\Rafael\Documents\Delphi_Estudos\2 - Meus_projetos\Mutex\Mutex.dproj=D:\McProjetos\DelphiRio\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
